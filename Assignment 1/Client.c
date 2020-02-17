@@ -1,7 +1,9 @@
 //**********************#
 //A simple Client server application
 //**********************#
-// Author : Deeksha Rao Gorige #
+// Author : Deeksha Rao Gorige//
+// 	    SreeNavya  
+//	    Simar		#
 // Date   : Jan 28,2020     #
 // Group  : 8         #
 //**********************#
