@@ -1,8 +1,8 @@
 #***********************************************************#
 #Course : TCSS 558                                          #
 #Authors : Deeksha                                          #
-#          Sreenavya                                        #
-#          Simer                                            #
+#                                                           #
+#                                              		    #
 # This is a server which responds to the requests through   #
 # REST API                                                  #
 #***********************************************************#
