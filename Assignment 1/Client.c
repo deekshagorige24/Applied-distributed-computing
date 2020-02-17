@@ -1,7 +1,7 @@
 //**********************#
 //A simple Client server application
 //**********************#
-// Author : Navya, Deeksha, Simerpreet #
+// Author : Deeksha Rao Gorige #
 // Date   : Jan 28,2020     #
 // Group  : 8         #
 //**********************#
